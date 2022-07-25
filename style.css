@@ -26,6 +26,7 @@
     height: 100%;
     background-color: #424a50;
     border-radius: 0px 60px 0px 0px;
+    color: #eeeeee;
 }
 
 .left-section-contents{
@@ -97,7 +98,6 @@
 
 .gap {
     padding-bottom: 2rem;
-    color: #eeeeee;
 }
 .about-me-contents {
     font-size: 18px;
